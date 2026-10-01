@@ -1,0 +1,6 @@
+{
+  "name": "Bookiin - Plateforme Ebooks & Liseuse",
+  "description": "V1 de l'application web Bookiin : plateforme de vente et de lecture de livres numériques éco-serverless avec Next.js, Supabase, Cloudflare R2 et Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
